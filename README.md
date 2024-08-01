@@ -9,16 +9,16 @@ Esto es un repositorio de información práctica para los Venezolanos en Venezue
 Toda la información a excepción de ¿Qué formas de protestas no violentas son efectivas? están en este documento.
 
 # Tabla de contenidos
-- [¿Cómo comparto información de manera efectiva?](https://github.com/doblea13/Infromacion-pr-ctica-para-protestar-por-VE/edit/main/README.md#c%C3%B3mo-comparto-informaci%C3%B3n-de-manera-efectiva)
-- [¿Cuáles son las fuentes de información confiables?](https://github.com/doblea13/Infromacion-pr-ctica-para-protestar-por-VE/edit/main/README.md#cu%C3%A1les-son-las-fuentes-de-informaci%C3%B3n-confiables)
-- [¿Qué periodistas están informando sobre la situación actual?](https://github.com/doblea13/Infromacion-pr-ctica-para-protestar-por-VE/edit/main/README.md#qu%C3%A9-periodistas-est%C3%A1n-informando-sobre-la-situaci%C3%B3n-actual)
-- [¿Qué formas de protestas no violentas son efectivas?](https://github.com/doblea13/Infromacion-pr-ctica-para-protestar-por-VE/edit/main/README.md#qu%C3%A9-formas-de-protestas-no-violentas-son--efectivas)
-- [¿Qué herramientas puedo usar para protegerme digitalmente?](https://github.com/doblea13/Infromacion-pr-ctica-para-protestar-por-VE/edit/main/README.md#qu%C3%A9-herramientas-puedo-usar-para-protegerme-digitalmente)
-- [¿Qué websites son importantes](https://github.com/doblea13/Infromacion-pr-ctica-para-protestar-por-VE/edit/main/README.md#qu%C3%A9-websites-son-importantes)
-- [¿Qué hago si me detienen?](https://github.com/doblea13/Infromacion-pr-ctica-para-protestar-por-VE/edit/main/README.md#qu%C3%A9-hago-si-me-detienen)
-- [¿Qué hago si veo que detienen a alguien?](https://github.com/doblea13/Infromacion-pr-ctica-para-protestar-por-VE/edit/main/README.md#qu%C3%A9-hago-si-veo-que-detienen-a-alguien)
-- [¿Qué puedo hacer si estoy en el exterior?](https://github.com/doblea13/Infromacion-pr-ctica-para-protestar-por-VE/edit/main/README.md#qu%C3%A9-puedo-hacer-si-estoy-en-el-exterior)
-- [Notas de actualización](https://github.com/doblea13/Infromacion-pr-ctica-para-protestar-por-VE/edit/main/README.md#notas-de-actualizaci%C3%B3n)
+- ¿Cómo comparto información de manera efectiva?
+- ¿Cuáles son las fuentes de información confiables?
+- ¿Qué puedo hacer para verificar información
+- ¿Qué periodistas están informando sobre la situación actual?
+- ¿Qué formas de protestas no violentas son efectivas?
+- ¿Qué herramientas puedo usar para protegerme digitalmente?
+- ¿Qué websites son importantes
+- ¿Qué hago si me detienen?
+- ¿Qué hago si veo que detienen a alguien?
+- ¿Qué puedo hacer si estoy en el exterior?
 
 # ¿Cómo comparto información de manera efectiva?
 - Comparte **SOLO HECHOS**, no compartas rumores. Vale más información verificadad que ser el primero en saber algo
