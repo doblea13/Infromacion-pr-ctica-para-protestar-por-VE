@@ -79,7 +79,7 @@ En este momento estará circulando muchísima información y desinformación (y 
 (Pronto!)
 
 # ¿Qué formas de protestas no violentas son  efectivas?
-(Pronto!)
+Lee aquí: [Formas efectivas de protestas no violentasFormas efectivas de protestas no violentas](Formas efectivas de protestas no violentas.md)
 
 # ¿Qué herramientas puedo usar para protegerme digitalmente?
 - VPNs - ProtonVPN está ofreciendo su servicio completo GRATIS para toda Venezuela. También se recomiendan Psiphon y TunnelBear
