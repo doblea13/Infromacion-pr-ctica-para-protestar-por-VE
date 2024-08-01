@@ -21,7 +21,7 @@ Toda la información a excepción de ¿Qué formas de protestas no violentas son
 - ¿Qué puedo hacer si estoy en el exterior?
 
 # ¿Cómo comparto información de manera efectiva?
-- Comparte **SOLO HECHOS**, no compartas rumores. Vale más información verificadad que ser el primero en saber algo
+- Comparte **SOLO HECHOS**, no compartas rumores. Vale más información verificada que ser el primero en saber algo
 - Comparte siempre que puedas referencias, videos o imagénes 
 - Capta la mayor cantidad de detalles posibles. Ejemplo: Placas de carro de policía, uniformes, insignias, rango, agujeros de bala, etc.
 - Sigue este formato:
